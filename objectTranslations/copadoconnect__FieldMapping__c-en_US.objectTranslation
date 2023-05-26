@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <fieldSets>
-        <label><!-- Objects and Fields Mappings --></label>
+        <label></label>
         <name>copadoconnect__Objects_and_Fields_Mappings</name>
     </fieldSets>
     <fields>
-        <label><!-- Copado Integration --></label>
+        <label></label>
         <name>copadoconnect__Copado_Integration__c</name>
-        <relationshipLabel><!-- Field Mappings --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Is Creatable --></label>
+        <label></label>
         <name>copadoconnect__Copado_Is_Creatable__c</name>
     </fields>
     <fields>
-        <label><!-- Is Updatable --></label>
+        <label></label>
         <name>copadoconnect__Copado_Is_Updatable__c</name>
     </fields>
     <fields>
-        <label><!-- Direction --></label>
+        <label></label>
         <name>copadoconnect__Direction__c</name>
     </fields>
     <fields>
-        <label><!-- Provider Field --></label>
+        <label></label>
         <name>copadoconnect__External_Field_Name__c</name>
     </fields>
     <fields>
-        <label><!-- Provider Field Type --></label>
+        <label></label>
         <name>copadoconnect__External_Field_Type__c</name>
     </fields>
     <fields>
-        <label><!-- Provider Type --></label>
+        <label></label>
         <name>copadoconnect__External_Object_Record_Type_Label__c</name>
     </fields>
     <fields>
-        <label><!-- Provider Type --></label>
+        <label></label>
         <name>copadoconnect__External_Object_Record_Type__c</name>
     </fields>
     <fields>
-        <label><!-- Provider Object --></label>
+        <label></label>
         <name>copadoconnect__External_Object__c</name>
     </fields>
     <fields>
-        <label><!-- Inbound --></label>
+        <label></label>
         <name>copadoconnect__Inbound__c</name>
     </fields>
     <fields>
-        <label><!-- Named Credential --></label>
+        <label></label>
         <name>copadoconnect__Named_Credential__c</name>
     </fields>
     <fields>
-        <label><!-- Object Mapping --></label>
+        <label></label>
         <name>copadoconnect__Object_Mapping__c</name>
-        <relationshipLabel><!-- Field Mappings --></relationshipLabel>
+        <relationshipLabel></relationshipLabel>
     </fields>
     <fields>
-        <label><!-- Outbound --></label>
+        <label></label>
         <name>copadoconnect__Outbound__c</name>
     </fields>
     <fields>
-        <label><!-- Provider --></label>
+        <label></label>
         <name>copadoconnect__Provider__c</name>
     </fields>
     <fields>
-        <label><!-- Copado Field --></label>
+        <label></label>
         <name>copadoconnect__Salesforce_Field_Name__c</name>
     </fields>
     <fields>
-        <label><!-- Copado Field Type --></label>
+        <label></label>
         <name>copadoconnect__Salesforce_Field_Type__c</name>
     </fields>
     <fields>
-        <label><!-- Copado Record Type --></label>
+        <label></label>
         <name>copadoconnect__Salesforce_Object_Record_Type__c</name>
     </fields>
     <fields>
-        <label><!-- Copado Object --></label>
+        <label></label>
         <name>copadoconnect__Salesforce_Object__c</name>
     </fields>
     <fields>
-        <label><!-- Status --></label>
+        <label></label>
         <name>copadoconnect__Status__c</name>
         <picklistValues>
             <masterLabel>Failed</masterLabel>
-            <translation><!-- Failed --></translation>
+            <translation></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Mapped</masterLabel>
-            <translation><!-- Mapped --></translation>
+            <translation></translation>
         </picklistValues>
     </fields>
 </CustomObjectTranslation>
