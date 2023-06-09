@@ -4,6 +4,10 @@
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
+        <name>AccessContentBuilder</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ActivateContract</name>
     </userPermissions>
     <userPermissions>
@@ -396,6 +400,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageForecastingCustomData</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageHealthCheck</name>
     </userPermissions>
     <userPermissions>
@@ -473,10 +481,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageReleaseUpdates</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageRemoteAccess</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
