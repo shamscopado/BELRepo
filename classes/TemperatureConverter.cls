@@ -4,6 +4,6 @@ public class TemperatureConverter {
     public static Decimal FahrenheitToCelsius(Decimal fh) {
         Decimal cs = (fh - 32) * 5/9;
         return cs.setScale(2);
-        //This is to test US on London calling
+        //This is to test US on London calling Stellanties test
     }
 }
