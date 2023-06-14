@@ -322,35 +322,6 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>Solvay_Test__c</fullName>
-        <externalId>false</externalId>
-        <label>Solvay Test</label>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>V1</fullName>
-                    <default>false</default>
-                    <label>V1</label>
-                </value>
-                <value>
-                    <fullName>V2</fullName>
-                    <default>false</default>
-                    <label>V2</label>
-                </value>
-                <value>
-                    <fullName>V3</fullName>
-                    <default>false</default>
-                    <label>V3</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
