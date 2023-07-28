@@ -21,10 +21,6 @@
         <name>copado__Pipeline_Manager</name>
     </fieldSets>
     <fields>
-        <label><!-- Update Set ID --></label>
-        <name>cmcSnow__Update_Set_ID__c</name>
-    </fields>
-    <fields>
         <help><!-- Select this checkbox if you are promoting from a higher to a lower environment in the pipeline. --></help>
         <label><!-- Is Back-Promotion --></label>
         <name>copado__Back_Promotion__c</name>
@@ -161,14 +157,6 @@
             <masterLabel>Validation failed</masterLabel>
             <translation>検証に失敗しました</translation>
         </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- Caused Business Disruption? --></label>
-        <name>copadometrics__Caused_Business_Disruption__c</name>
-    </fields>
-    <fields>
-        <label><!-- Destination is a Production Org? --></label>
-        <name>copadometrics__Destination_is_a_Production_Org__c</name>
     </fields>
     <nameFieldLabel><!-- Promotion Name --></nameFieldLabel>
     <validationRules>

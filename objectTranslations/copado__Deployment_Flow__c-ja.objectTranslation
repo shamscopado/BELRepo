@@ -176,10 +176,6 @@
             <masterLabel>Salesforce</masterLabel>
             <translation>セールスフォース</translation>
         </picklistValues>
-        <picklistValues>
-            <masterLabel>ServiceNow</masterLabel>
-            <translation><!-- ServiceNow --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <help>デプロイメントフローにリンクされた環境またはユーザーストーリーで実行されるたびに、静的コード解析の設定が使用されます。</help>

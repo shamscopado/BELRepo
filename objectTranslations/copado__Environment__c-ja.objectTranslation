@@ -133,10 +133,6 @@
             <masterLabel>Salesforce</masterLabel>
             <translation>セールスフォース</translation>
         </picklistValues>
-        <picklistValues>
-            <masterLabel>ServiceNow</masterLabel>
-            <translation><!-- ServiceNow --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <help>ターゲット組織のデフォルトクレデンシャルは常にチェックされています。オプションで、ユーザーがターゲット組織の組織クレデンシャルを持っていない場合のみ、デフォルトのクレデンシャルを選択することができます。</help>
@@ -184,10 +180,6 @@
             <masterLabel>Only If User Has No Org Credential</masterLabel>
             <translation>ユーザーが組織クレデンシャルを持っていない場合のみ</translation>
         </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- Production Org? --></label>
-        <name>copadometrics__Production_Org__c</name>
     </fields>
     <nameFieldLabel><!-- Environment Name --></nameFieldLabel>
     <webLinks>

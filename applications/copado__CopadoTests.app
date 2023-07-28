@@ -11,7 +11,6 @@
     </actionOverrides>
     <brand>
         <headerColor>#2463EB</headerColor>
-        <logo>copado__CopadoTestAppIcon</logo>
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
     </brand>

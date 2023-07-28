@@ -534,11 +534,6 @@ This value will prefill the order by field on related Promotion record creation 
                     <label>Salesforce</label>
                 </value>
                 <value>
-                    <fullName>ServiceNow</fullName>
-                    <default>false</default>
-                    <label>ServiceNow</label>
-                </value>
-                <value>
                     <fullName>Other</fullName>
                     <default>false</default>
                     <label>Other</label>

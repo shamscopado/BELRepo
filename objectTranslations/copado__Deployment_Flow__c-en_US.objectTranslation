@@ -172,10 +172,6 @@ This value will prefill the order by field on related Promotion record creation 
             <masterLabel>Salesforce</masterLabel>
             <translation><!-- Salesforce --></translation>
         </picklistValues>
-        <picklistValues>
-            <masterLabel>ServiceNow</masterLabel>
-            <translation><!-- ServiceNow --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <help><!-- Static Code Analysis settings used whenever the analysis is run in Environments or User Stories linked to the Deployment Flow. --></help>

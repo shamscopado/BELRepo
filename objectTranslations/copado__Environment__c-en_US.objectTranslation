@@ -129,10 +129,6 @@
             <masterLabel>Salesforce</masterLabel>
             <translation><!-- Salesforce --></translation>
         </picklistValues>
-        <picklistValues>
-            <masterLabel>ServiceNow</masterLabel>
-            <translation><!-- ServiceNow --></translation>
-        </picklistValues>
     </fields>
     <fields>
         <help><!-- The Default Credential for the target Org is always selected by default. Optionally, the Default Credential can be selected only if the user has no Org Credential for the target Org. --></help>
@@ -180,10 +176,6 @@
             <masterLabel>Only If User Has No Org Credential</masterLabel>
             <translation><!-- Only If User Has No Org Credential --></translation>
         </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- Production Org? --></label>
-        <name>copadometrics__Production_Org__c</name>
     </fields>
     <webLinks>
         <label><!-- Find_Replace_Rule_Editor --></label>
